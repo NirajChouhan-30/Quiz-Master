@@ -6,6 +6,7 @@ Designed as an offline quiz platform, it provides a user-friendly interface, ins
 
 
 ✨ Features
+
 ✅ Offline Quizzes — No internet required.
 
 📋 Subject-wise Question Bank — Select topics like Advanced Java Programming, Managenent, Emerging trends in IT.
@@ -23,6 +24,7 @@ Designed as an offline quiz platform, it provides a user-friendly interface, ins
 💡 Intuitive UI — Designed for easy navigation and smooth experience.
 
 🛠️ Tech Stack
+
 Java (for core Android app logic)
 
 Android Studio (IDE)
