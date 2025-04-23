@@ -31,24 +31,6 @@ Android Studio (IDE)
 
 XML (for UI design)
 
-
-📁 Project Structure
-
-QuizMaster/
-├── java/com/example/quiz_master/
-│   ├── MainActivity.java
-│   ├── QuizActivity.java
-│   ├── QuestionBank.java
-│   ├── ResultActivity.java
-│   └── HistoryActivity.java
-├── res/layout/
-│   ├── activity_main.xml
-│   ├── activity_quiz.xml
-│   ├── activity_result.xml
-│   └── activity_history.xml
-└── res/values/
-    └── colors.xml, strings.xml, styles.xml
-
     
 📌 Future Enhancements
 
@@ -62,7 +44,11 @@ QuizMaster/
 
 
 🙋‍♂️ Developer
+
 Name: Niraj Chouhan
+
 Role: Android Developer
+
 Project Type: Final Year Diploma Project
+
 College: S.S.O.S.P. College of Diploma Engineering
