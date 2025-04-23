@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Quiz_master</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="login_to_continue">Login to continue</string>
+    <string name="dialog_quit_game">Would you to like leave?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="username_cannot_empty">Username cannot be empty</string>
+    <string name="password_cannot_empty">Password cannot be empty</string>
+    <string name="old_password_cannot_be_empty">Old Password cannot be empty</string>
+    <string name="new_password_cannot_be_empty">New Password cannot be empty</string>
+    <string name="confirm_new_password_cannot_be_empty">Confirm New Password cannot be empty</string>
+    <string name="Eti">ETI</string>
+    <string name="Man">AJP</string>
+    <string name="Ajp">AJP</string>
+    <string name="finish">Finish</string>
+    <string name="next">Next</string>
+    <string name="Eti_quiz">ETI</string>
+    <string name="Man_quiz">MAN</string>
+    <string name="rules1_description">There will be 10 Ques. in a Test.</string>
+    <string name="rules2_description">Right answer will get you 5 points.</string>
+    <string name="rules3_description">No points will be deducted for wrong answers.</string>
+    <string name="rules4_description"> Your results are saved and collected in your History. </string>
+</resources>
