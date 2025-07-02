@@ -1,11 +1,11 @@
-📚 Quiz Master Application
+# 📚 Quiz Master Application
 
 🧠 Practice. Learn. Master.
 Quiz Master is an Android application developed for students to practice and test their knowledge in online subjects of MSBTE Board. 
 Designed as an offline quiz platform, it provides a user-friendly interface, instant feedback on answers, quiz history, and study notes—all accessible without an internet connection.
 
-
-✨ Features
+---
+# ✨ Features
 
 ✅ Offline Quizzes — No internet required.
 
@@ -23,7 +23,8 @@ Designed as an offline quiz platform, it provides a user-friendly interface, ins
 
 💡 Intuitive UI — Designed for easy navigation and smooth experience.
 
-🛠️ Tech Stack
+---
+# 🛠️ Tech Stack
 
 Java (for core Android app logic)
 
@@ -31,8 +32,8 @@ Android Studio (IDE)
 
 XML (for UI design)
 
-    
-📌 Future Enhancements
+---    
+# 📌 Future Enhancements
 
 🔊 Add sound effects for correct/wrong answers.
 
@@ -42,8 +43,8 @@ XML (for UI design)
 
 🌐 Add multilingual support.
 
-
-🙋‍♂️ Developer
+---
+# 🙋‍♂️ Developer
 
 Name: Niraj Chouhan
 
